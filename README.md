@@ -187,23 +187,19 @@ The application allows the user to upload the supplied held-out test data, selec
 
 Before submitting the final PDF, verify the following:
 
-- All five model files are present in the `model/` folder.
-- `test_data.csv` contains the supplied held-out test data used for evaluation.
-- `artifacts/metrics.json` contains the final reported model metrics.
-- `requirements.txt` is present and tested.
-- GitHub repository contains all required project files.
-- GitHub Repository link opens correctly.
-- Streamlit Community Cloud application opens successfully.
-- The test CSV upload works in the deployed application.
-- The model-selection dropdown works.
-- Accuracy, AUC, Precision, Recall, F1 and MCC are displayed.
-- Confusion matrix is displayed.
-- Classification report is displayed.
-- Prediction preview is displayed.
-- BITS Virtual Lab execution has been completed.
-- The BITS Virtual Lab screenshot is included in the final PDF.
-- README content is included in the final PDF as required.
-- GitHub Repository and Streamlit App links are updated before final submission.
-- The reported observations match the actual final metrics.
-- Random Forest (Ensemble) is identified as the overall winner based on the reported results.
-- The student has reviewed and understood the code, model settings and results.
+All five model files are present in the `model/` folder.
+`test_data.csv` contains the supplied held-out test data used for evaluation.
+`artifacts/metrics.json` contains the final reported model metrics.
+`requirements.txt` is present and tested.
+GitHub repository contains all required project files.
+GitHub Repository link opens correctly.
+Streamlit Community Cloud application opens successfully.
+The test CSV upload works in the deployed application.
+The model-selection dropdown works.
+Accuracy, AUC, Precision, Recall, F1 and MCC are displayed.
+Confusion matrix is displayed.
+Classification report is displayed.
+Prediction preview is displayed.
+GitHub Repository and Streamlit App links are updated before final submission.
+The reported observations match the actual final metrics.
+Random Forest (Ensemble) is identified as the overall winner based on the reported results.
