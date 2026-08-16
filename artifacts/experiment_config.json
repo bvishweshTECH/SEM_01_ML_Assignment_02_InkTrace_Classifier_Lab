@@ -1,0 +1,13 @@
+{
+  "dataset": "Optical Recognition of Handwritten Digits \u2014 packaged benchmark subset",
+  "source_family": "UCI Machine Learning Repository, Dataset 80",
+  "instances_used": 1797,
+  "features": 64,
+  "classes": 10,
+  "test_rows": 396,
+  "test_size": 0.22,
+  "random_state": 73,
+  "target": "target",
+  "auc_definition": "macro one-vs-rest ROC AUC",
+  "precision_recall_f1_average": "weighted"
+}
